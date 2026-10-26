@@ -1,7 +1,6 @@
 # EXP NO: 01 - IMAGE HANDLING AND PIXEL TRANSFORMATION USING OPENCV
 ## NAME: ALAGESHWARI V
 ## REG N0: 212224240010
-## DATE: 23/10/2026
 
 ## AIM:
 To perform image handling and pixel transformations using OpenCV by loading, displaying, converting, and manipulating images through pixel-level operations.
