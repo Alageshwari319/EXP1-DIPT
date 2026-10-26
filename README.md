@@ -1,11 +1,13 @@
-# EXP1-DIPT
+# EXP NO: 01 - IMAGE HANDLING AND PIXEL TRANSFORMATION USING OPENCV
 ## NAME: ALAGESHWARI V
 ## REG N0: 212224240010
 ## DATE: 23/10/2026
 
-## PROCEDURE:
+## AIM:
+To perform image handling and pixel transformations using OpenCV by loading, displaying, converting, and manipulating images through pixel-level operations.
 
-# PROCEDURE:
+
+## PROCEDURE:
 
 ### Step1:
 Load an image from your local directory and display it.
@@ -187,3 +189,57 @@ plt.imshow(flipped_vertically_rgb)
 plt.title("Flipped Vertically")
 plt.axis("off")
 ```
+
+## OUTPUT:
+
+<img width="360" height="500" alt="image" src="https://github.com/user-attachments/assets/4ac7d365-125d-4f01-bd8b-4646ed47455f" />
+
+<img width="358" height="496" alt="image" src="https://github.com/user-attachments/assets/45d263ae-5678-4e55-8c2e-efb462361ab8" />
+
+<img width="358" height="492" alt="image" src="https://github.com/user-attachments/assets/89ec4bac-8f7f-493a-8556-7c3356475351" />
+
+<img width="361" height="501" alt="image" src="https://github.com/user-attachments/assets/a06e3982-4523-4d78-9e8d-9aca45d5898c" />
+
+<img width="356" height="498" alt="image" src="https://github.com/user-attachments/assets/f2d78a3c-04d0-441c-9401-4c672b2258f9" />
+
+<img width="710" height="532" alt="image" src="https://github.com/user-attachments/assets/3b90bfb3-7ee0-4f16-b48c-c296432f61c1" />
+
+
+<img width="680" height="530" alt="image" src="https://github.com/user-attachments/assets/3e36fddd-1d78-4b3f-b7bd-271aeb7fb1f0" />
+
+
+
+
+<img width="695" height="527" alt="image" src="https://github.com/user-attachments/assets/c44e1303-2a3c-4cf6-a814-21cacd265f04" />
+
+
+
+<img width="677" height="531" alt="image" src="https://github.com/user-attachments/assets/db23e2b7-359c-4542-99c4-9ba69c182581" />
+
+
+<img width="666" height="526" alt="image" src="https://github.com/user-attachments/assets/538643b5-af1b-482e-a65d-d7813efa6f59" />
+
+
+
+
+<img width="360" height="497" alt="image" src="https://github.com/user-attachments/assets/9790388a-623d-401c-98d3-15a7956e2d8a" />
+
+
+
+<img width="435" height="370" alt="image" src="https://github.com/user-attachments/assets/4c8b84cd-79cf-4a7e-9720-02e5c7329523" />
+
+
+<img width="436" height="492" alt="image" src="https://github.com/user-attachments/assets/3ef13d17-82b3-4ed3-898b-bc8b907959e1" />
+
+
+
+<img width="685" height="531" alt="image" src="https://github.com/user-attachments/assets/2df1570d-f68c-4a14-a0d7-e2a584c4aa0b" />
+
+
+
+<img width="680" height="520" alt="image" src="https://github.com/user-attachments/assets/dd1d0e9b-7454-4c95-b03a-29f34e16ee20" />
+
+## RESULT:
+
+Thus the Image Handling and Pixel Transformation Using Opencv was verified successfully.
+
